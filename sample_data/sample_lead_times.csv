@@ -1,0 +1,4 @@
+facility_code,commodity_code,supplier,average_lead_time_days
+HC001,ARV001,National Medical Stores,30
+HC001,ARV002,National Medical Stores,25
+HC002,VAC001,UNICEF,45

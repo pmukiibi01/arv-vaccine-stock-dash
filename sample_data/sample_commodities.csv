@@ -1,0 +1,5 @@
+commodity_code,commodity_name,commodity_type,unit_of_measure
+ARV001,Tenofovir/Lamivudine/Dolutegravir (TLD),ARV,Tablets
+ARV002,Efavirenz 600mg,ARV,Tablets
+VAC001,BCG Vaccine,Vaccine,Vials
+VAC002,DPT-HepB-Hib,Vaccine,Vials

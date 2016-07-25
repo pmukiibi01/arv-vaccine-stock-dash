@@ -1,0 +1,4 @@
+facility_code,commodity_code,current_stock,reorder_level,maximum_stock
+HC001,ARV001,4500,1000,10000
+HC001,ARV002,800,500,2000
+HC002,VAC001,150,50,500

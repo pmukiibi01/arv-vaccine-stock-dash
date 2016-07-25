@@ -1,0 +1,4 @@
+facility_code,commodity_code,movement_type,quantity,unit_cost,movement_date,reference_number
+HC001,ARV001,RECEIPT,5000,0.5,2024-01-15,PO-2024-001
+HC001,ARV001,ISSUE,100,0.5,2024-01-16,IS-2024-001
+HC002,VAC001,RECEIPT,200,2.0,2024-01-15,PO-2024-002
